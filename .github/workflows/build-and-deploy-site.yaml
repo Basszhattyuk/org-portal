@@ -16,6 +16,8 @@ jobs:
     steps:
     - name: Checkout main
       uses: actions/checkout@v4
+      with:
+        submodules: true
     - name: Build and deploy
       uses: shalzz/zola-deploy-action@v0.21.0
       env:
