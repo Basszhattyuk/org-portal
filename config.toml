@@ -18,6 +18,8 @@ default_language = "hu"
 highlight_code = true
 highlight_theme = "css"
 
+external_links_class = "external"
+
 [extra]
 # Put all your custom variables here
 skin = "red"
