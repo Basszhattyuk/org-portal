@@ -4,20 +4,16 @@ title = "2026 - Felelősök"
 
 # 2026-ban megszervezett diáknapok
 
-**Felelős**: Olyan ember, aki felelősséget vállal előre meghatározott szervezési feladatokért.
-
-**Divizíó**: Egy csapat, kijelölt **felelős** vezetővel és meghatározott céllal.
+**Divízió**: Egy csapat, kijelölt **felelős** vezetővel és meghatározott céllal.
 
 
 ## Divíziók
 
 ### Csapatvezetők
-Felelősök:
 - [**Csapat Kapitány**](./leadership/team-leader): Portik K. Márk
 - [Alcsapat Kapitány](./leadership/vice-team-leader): ?
 
 ### Vezetőségi Portál Karbantartók
-Felelősök:
 - [Vezetőségi Portál Főkarbantartó](./org-portal/lead-maintainer): Simófi Levente
 
 
