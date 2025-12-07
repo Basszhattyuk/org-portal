@@ -40,3 +40,21 @@ socials = [
     { name = "github", url = "https://github.com/Basszhattyuk", icon = "github" },
     { name = "instagram", url = "https://www.instagram.com/basszhattyuk/", icon = "instagram" }
 ]
+
+quick_navigation_buttons = true
+
+[extra.giscus]
+enabled_for_all_posts = true
+automatic_loading = true
+repo = "Basszhattyuk/org-portal"
+repo_id = "R_kgDOQkE7Ig"
+category = "Announcements"
+category_id = "DIC_kwDOQkE7Is4CzgMW"
+mapping = "slug"
+strict_title_matching = 0
+enable_reactions = 1
+comment_box_above_comments = true
+light_theme = "noborder_light"
+dark_theme = "noborder_dark"
+lang = ""  # Leave blank to match the page's language.
+lazy_loading = true
