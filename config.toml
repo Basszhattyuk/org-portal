@@ -27,3 +27,10 @@ menu = [
     { name = "Felelosok", url = "2026/responsibility", weight = 1 },
     { name = "Megbeszélések", url = "2026/meeting", weight = 2 },
 ]
+
+
+remote_repository_url = "https://github.com/Basszhattyuk/org-portal"
+remote_repository_git_platform = "auto"
+remote_repository_branch = "main"
+show_remote_changes = true
+show_remote_source = true
