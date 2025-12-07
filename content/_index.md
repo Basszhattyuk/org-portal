@@ -12,7 +12,7 @@ Terv: minden évnek saját mappa (aloldal).
 
 Ha szerkesztenéd:
  - [Git Stratégia](git-strategy)
- - Hogyan szerkesszem?
+ - [Hogyan szerkesszem?](https://github.com/Basszhattyuk/org-portal/blob/main/README.md)
 
 # 2026-ban megszervezett diáknapok
 
