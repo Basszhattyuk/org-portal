@@ -9,6 +9,5 @@ title = "Megbeszélések Dokumentációja"
   - ide gyűjthetjük össze az ötleteinket, amiket szeretnénk megbeszélni
 
 - jegyzőkönyvvezető, jegyzőkönyv link
-- jegyzőkönyv / rövid kivonat 
   - később emlékezzünk és hivatkozhassunk rá
   - aki nem tudott részt venni, tudjon tájékozódni
