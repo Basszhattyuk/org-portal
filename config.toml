@@ -21,7 +21,7 @@ highlight_theme = "css"
 [extra]
 # Put all your custom variables here
 skin = "red"
-favicon = "favicon2.ico"
+favicon = "img/icons/favicon2.ico"
 
 menu = [
     { name = "Felelősok", url = "2026/responsibility", weight = 1 },
