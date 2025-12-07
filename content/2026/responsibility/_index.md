@@ -17,6 +17,12 @@ title = "2026 - Felelősök"
 - [Vezetőségi Portál Főkarbantartó](./org-portal/lead-maintainer): Simófi Levente
 
 
+### Social Média kezelők
+- Instagramfiók felelős?
+- Kampányfelelős?
+- Image/Brand felelős?
+- Short Videó vágók?
+
 ---
 
 ## Új felelős hozzáadása:
