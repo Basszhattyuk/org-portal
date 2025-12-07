@@ -11,7 +11,7 @@ Egy központi hely, ahonnan minden szervezéssel kapcsolatos fontos dolog elérh
 # 2026-ban megszervezett diáknapok
 
 - [Felelősök és divíziók](2026/responsibility)
-- [Szervezői Megbeszélések](2026/meeting)
+- [Szervezői megbeszélések](2026/meeting)
 
 ---
 
