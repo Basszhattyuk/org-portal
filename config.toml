@@ -56,5 +56,5 @@ enable_reactions = 1
 comment_box_above_comments = true
 light_theme = "noborder_light"
 dark_theme = "noborder_dark"
-lang = ""  # Leave blank to match the page's language.
+lang = "hu"
 lazy_loading = true
