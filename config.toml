@@ -24,7 +24,7 @@ skin = "red"
 favicon = "favicon2.ico"
 
 menu = [
-    { name = "Felelosok", url = "2026/responsibility", weight = 1 },
+    { name = "Felelősok", url = "2026/responsibility", weight = 1 },
     { name = "Megbeszélések", url = "2026/meeting", weight = 2 },
 ]
 
