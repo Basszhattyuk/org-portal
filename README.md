@@ -4,7 +4,7 @@
 
 ## Cikk írás
 
-Minden oldal a `site/content` mappában található, az oldalak útvonalait a fájlok és mappák elhelyezkedése határozza meg.
+Minden oldal a `content/` mappában található, az oldalak útvonalait a fájlok és mappák elhelyezkedése határozza meg.
 
 Egy oldal tulajdonképpen egy markdown fájl. A következő kötelező a tetején:
 ```md
@@ -27,7 +27,7 @@ Bármilyen kódszerkesztő, amely képes markdown fájlok megjelenítésére, p�
 
 1. Szükséged lesz a [Zola](https://www.getzola.org/themes/tabi/) statikus oldal generáló programra.
 
-2. Navigálj a leklónozott repo site almappájába.
+2. Navigálj a leklónozott repo mappájába.
 
 3. Futtasd: `zola serve` parancsot (feltételezem, hogy a zola program elérhető a PATH-edben, ha nem tudod miről van szó keresd **az oldal karbantártásáért felelőst**).
 4. Enjoy: automatikusan generálja az oldalt és futtat egy teszt szervert, amelyet a böngészőből megtekinthetsz.
