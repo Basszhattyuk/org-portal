@@ -1,6 +1,8 @@
 +++
 title = "laser - stratégiai megbeszélés - 1"
+description = "nem igazán tudom ide mit kellene írni, de majd közösen kitaláljuk."
 date = 2025-12-14
+authors = ["Simófi Levente"]
 +++
 
 A szervezésért felel: ?
