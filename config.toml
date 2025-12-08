@@ -23,10 +23,10 @@ external_links_class = "external"
 [extra]
 # Put all your custom variables here
 skin = "red"
-favicon = "img/icons/favicon2.ico"
+favicon_emoji = "🦢"
 
 menu = [
-    { name = "Felelősok", url = "2026/responsibility", weight = 1 },
+    { name = "Felelősek", url = "2026/responsibility", weight = 1 },
     { name = "Megbeszélések", url = "2026/meeting", weight = 2 },
 ]
 
