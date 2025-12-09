@@ -2,6 +2,9 @@
 title = "Vezetőségi Portál"
 [extra]
 header = { title = "Üdv, kedves BasszSzervező", img = "basszhattyuk-logo-outline.png", img_alt = "basszlogó" }
+sort_by = "date"
+aginate_by = 9999
+paginate_reversed = true
 +++
 
 # Mi ez a portál?
@@ -17,6 +20,6 @@ Egy központi hely, ahonnan minden szervezéssel kapcsolatos fontos dolog elérh
 
 Terv: minden évnek saját mappa (aloldal).
 
-Ha szerkesztenéd:
+Ha posztolnál, változtatnál az oldalon:
  - [Git Stratégia](git-strategy)
- - [Hogyan szerkesszem?](https://github.com/Basszhattyuk/org-portal/blob/main/README.md)
+ - [Szerkesztési útmutató](https://github.com/Basszhattyuk/org-portal/blob/main/README.md)
