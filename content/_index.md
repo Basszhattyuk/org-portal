@@ -11,6 +11,8 @@ paginate_reversed = true
 
 Egy központi hely, ahonnan minden szervezéssel kapcsolatos fontos dolog elérhető.
 
+[Gyors megosztás](quick-share)
+
 # 2026-ban megszervezett diáknapok
 
 - [Felelősök és divíziók](2026/responsibility)
