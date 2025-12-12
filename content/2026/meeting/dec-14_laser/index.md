@@ -7,7 +7,7 @@ authors = ["Simófi Levente"]
 
 A szervezésért felel: ?
 
-- Kitűzött Dátum: 2025 december 14., 20:00 (még nem biztos) óra
+- Kitűzött Dátum: 2025 december 14., 19:30 
 - Helyszín: laser, később sörözés
 
 ---
