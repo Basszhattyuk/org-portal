@@ -4,7 +4,7 @@ title = "Gyors megosztás"
 
 # Oldal gyors megosztása
 
-![qr code](main-link-256.svg)
+![qr code](qr.svg)
 
 
 **basszhattyuk.github.io**

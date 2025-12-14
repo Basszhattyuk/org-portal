@@ -5,6 +5,10 @@ date = 2025-12-14
 authors = ["Simófi Levente"]
 +++
 
+{{ base_link(path="quick-share/2026/meeting/dec-14-laser/" text="gyors megosztás") }}
+
+
+
 A szervezésért felel: ?
 
 - Kitűzött Dátum: 2025 december 14., 19:30 

@@ -11,7 +11,7 @@ paginate_reversed = true
 
 Egy központi hely, ahonnan minden szervezéssel kapcsolatos fontos dolog elérhető.
 
-[Gyors megosztás](quick-share)
+[Gyors megosztás](quick-share/main)
 
 # 2026-ban megszervezett diáknapok
 

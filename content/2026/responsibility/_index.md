@@ -34,4 +34,4 @@ Javaslat és CsK jóváhagyása után:
     - frissítsd a listát ezen az oldalon (a többi szerepkörhöz hasonlóan)
 3. Commitold és pushold a változtatásokat
     - ajánlott commit üzenet: 
-    {{ base_link(path="/git-strategy#Felelőssel-kapcsolatos-változtatások" text="ezt olvasd") }}
+    {{ base_link(path="git-strategy#Felelőssel-kapcsolatos-változtatások" text="ezt olvasd") }}
