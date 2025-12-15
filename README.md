@@ -9,7 +9,7 @@ Minden oldal a `content/` mappában található, az oldalak útvonalait a fájlo
 Egy oldal tulajdonképpen egy markdown fájl. A következő kötelező a tetején:
 ```md
 +++
-title: "cím"
+title = "cím"
 +++
 ```
 
