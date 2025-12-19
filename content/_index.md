@@ -11,17 +11,14 @@ paginate_reversed = true
 
 Egy központi hely, ahonnan minden szervezéssel kapcsolatos fontos dolog elérhető.
 
-[Gyors megosztás](quick-share/main)
-
-# 2026-ban megszervezett diáknapok
+---
+2026
 
 - [Felelősök és divíziók](2026/responsibility)
 - [Szervezői megbeszélések](2026/meeting)
 
 ---
 
-Terv: minden évnek saját mappa (aloldal).
+[Oldal gyors megosztása](quick-share/main)
 
-Ha posztolnál, változtatnál az oldalon:
- - [Git Stratégia](git-strategy)
- - [Szerkesztési útmutató](https://github.com/Basszhattyuk/org-portal/blob/main/README.md)
+[Szerkesztési útmutató](https://github.com/Basszhattyuk/org-portal/blob/main/README.md)
