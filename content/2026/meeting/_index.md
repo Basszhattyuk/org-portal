@@ -7,8 +7,9 @@ transparent = true
 
 [extra]
 series = true
+post_listing_index_reversed = true 
 +++
 
-Adjunk egy formát a megbeszéléseinknek, legyenek rendezettek és visszakövethetőek.
+**Adjunk formát a megbeszéléseinknek**, legyenek rendezettek és visszakövethetőek.
 
-{{ base_link(path="2026/guides/documenting-meetings" text="Útmutató új megbeszélések dokumentálásához") }}
+{{ base_link(path="2026/guides/documenting-meetings" text="új megbeszélés létrehozása") }}
