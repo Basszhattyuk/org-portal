@@ -1,0 +1,99 @@
+language_name = "English"  # Shown in language picker for multi-language sites.
+date_locale = "en_GB"
+full_stop = "."  # Used at the end of a sentence.
+
+# Menu items.
+# Should match the names in config.extra.menu and config.extra.footer_menu.
+blog = "blog"
+archive = "archívum"
+tags = "címkék"
+projects = "projektek"
+about = "rólunk"
+contact = "kapcsolat"
+privacy = "Adatvédelmi irányelvek"
+site_statistics = "oldal statisztikák"
+sitemap = "oldaltérkép"
+
+# Search.
+search = "Keresés"
+search_icon_title = "Kattints vagy nyomd meg a $SHORTCUT-t, hogy megnyisd a keresést"  # $SHORTCUT will be replaced with the actual keyboard shortcut.
+clear_search = "Keresés törlése"  # Title of the X icon next to search input.
+zero_results = "Nincs találat"
+one_results = "$NUMBER találat"  # "1 result"
+many_results = "$NUMBER találat"  # "3 results"
+
+# Navigation.
+skip_to_content = "Ugrás a tartalomhoz"
+pinned = "Kitűzött"
+jump_to_posts = "Ugrás a posztokhoz"
+read_more = "Tovább"
+one_posts = "$NUMBER poszt"
+many_posts = "$NUMBER poszt"  # "3 posts"
+prev = "Előző"  # As in "Previous" page.
+next = "Következő"  # As in "Next" page.
+of = ". oldal, összes:"  # E.g. Page 1 "of" 3
+all_posts = "Összes bejegyzés"
+all_tags = "Összes címke"
+all_projects = "Összes projekt"
+featured_projects = "Featured projects"
+language_selection = "Language selection"
+toggle_mode = "Toggle $MODE mode"  # $MODE will be replaced by a value (or both) below.
+dark = "dark"
+light = "light"
+reset_mode = "Reset mode to default"
+
+# Quick navigation buttons.
+toggle_toc = "Toggle Table of Contents"
+go_to_top = "Go to the top of the page"
+go_to_comments = "Go to the comments section"
+
+# Post metadata.
+by_author = "Írta $AUTHOR"  # $AUTHOR will be replaced by the author(s).
+author_separator = ", "  # For multiple authors. Ensure spacing where necessary.
+author_conjunction = " és "  # For multiple authors. Ensure spacing where necessary.
+draft = "DRAFT"
+zero_min_read = "<1 perc olvasás"
+one_min_read = "$NUMBER perc olvasás"
+many_min_read = "$NUMBER perc olvasás"
+zero_words = "Nincsenek szavak"
+one_words = "$NUMBER szó"
+many_words = "$NUMBER szó"
+last_updated_on = "Utoljára frissítve: $DATE"
+see_changes = "Változtatások megtekintése"
+
+# Post body.
+table_of_contents = "Tartalomjegyzék"
+load_comments = "Kommentek betöltése"
+
+# Copy code block button.
+copied = "Kimásolva!"
+copy_code_to_clipboard = "Kód vágólapra másolása"
+
+# iine appreciation button.
+like_this_post = "Lájkold ezt a posztot"
+
+# Footer: Powered by Zola and tabi.
+powered_by = "Powered by"
+and = "&"
+site_source = "Forráskód"
+
+# 404 error.
+# https://welpo.github.io/tabi/404.html
+page_missing = "The page you've requested seems to be missing"
+translation_missing = "or hasn't been translated into your language yet"
+check_url = "Check the URL for errors or"
+go_home = "go back to the homepage"
+
+# For multilingual quote shortcode.
+# https://welpo.github.io/tabi/blog/shortcodes/#multilingual-quotes
+show_original_quote = "Show original quote"
+show_translation = "Show translation"
+open_quotation_mark = "“"
+close_quotation_mark = "”"
+
+# Translations for stylised Atom feed.
+# https://welpo.github.io/tabi/atom.xml
+# Must contain "About Feeds"; it will become a link.
+about_feeds = "This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free."
+visit_the_site = "Visit website"
+recent_posts = "Recent posts"
