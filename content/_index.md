@@ -3,7 +3,7 @@ title = "Vezetőségi Portál"
 [extra]
 header = { title = "Üdv, kedves BasszSzervező", img = "basszhattyuk-logo-outline.png", img_alt = "basszlogó" }
 sort_by = "date"
-aginate_by = 9999
+paginate_by = 9999
 paginate_reversed = true
 +++
 
