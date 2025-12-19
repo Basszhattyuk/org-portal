@@ -11,17 +11,38 @@ title = "2026 - Felelősök"
 
 ### Csapatvezetők
 - [**Csapat Kapitány**](./leadership/team-leader): Portik K. Márk
-- [Alcsapat Kapitány](./leadership/vice-team-leader): ?
+- [Alcsapat Kapitány](./leadership/vice-team-leader): Buzogány Apor
 
-### Vezetőségi Portál Karbantartók
+### Vezetőségi Portál
 - [Vezetőségi Portál Főkarbantartó](./org-portal/lead-maintainer): Simófi Levente
 
 
-### Social Média kezelők
+### Socials/Insta/Promo
 - Instagramfiók felelős?
 - Kampányfelelős?
 - Image/Brand felelős?
 - Short Videó vágók?
+
+TBD
+
+### Külső Kommunikáció
+TBD
+
+### Belső kommunikáció
+TBD
+
+### Review
+TBD
+
+### Toborzás
+TBD
+
+### Eseményszervezők
+TBD
+
+### Sportok
+TBD
+
 
 ---
 
