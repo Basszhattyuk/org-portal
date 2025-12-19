@@ -9,10 +9,10 @@ authors = ["Simófi Levente"]
 
 
 
-A szervezésért felel: ?
+Szervezésért felelt: Kovács A. Leona
 
 - Kitűzött Dátum: 2025 december 14., 19:30 
-- Helyszín: laser ([str.  Berăriei 6.](https://maps.app.goo.gl/Wr8CSw97EBV7aWfV8)) , később sörözés
+- Helyszín: laser, plani
 
 ---
 
@@ -20,6 +20,7 @@ A szervezésért felel: ?
 
 Feldolgozandó témák: [google docs](https://docs.google.com/document/d/1opeSVryuzGwWs0pfDNMjaEVEb2SiTtguRcXAwFaww1w/edit?usp=sharing)
 
-Jegyzőkönyv:
+Jegyzőkönyv: [google docs](https://docs.google.com/document/d/17D2XB07RiER73EymZJvO4KjOMxFjtOLky7RqexFAtZ0/edit?usp=sharing)
 
-Jegyzőkönyvvezető: ?
+Jegyzőkönyvvezető: Bencze Noémi
+Moderálta: Kovács A. Leona
