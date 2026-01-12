@@ -6,10 +6,10 @@ authors = ["Bencze Noémi", "Simófi Levente"]
 +++
 
 
-Szervezésért felel: **TBD** (ki szeretne gondoskodni a meleg helyről? :D) 
+Szervezésért felel: **TBD**
 
-- Kitűzött Dátum: 2026 január 10. után
-- Helyszín: **TBD**
+- Kitűzött Dátum: 2026 január 29. - február 1. potenciálisan
+- Helyszín: Andinál, Noéminél vagy Márknál
 
 
 [Előző Gyűlés Jegyzőkönyve](https://docs.google.com/document/d/17D2XB07RiER73EymZJvO4KjOMxFjtOLky7RqexFAtZ0/edit?usp=sharing)
@@ -24,5 +24,5 @@ Szervezésért felel: **TBD** (ki szeretne gondoskodni a meleg helyről? :D)
 
 Jegyzőkönyvvezető: Bencze Noémi
 
-Moderátor: Kovács A. Leona
+Moderátor: Kovács A. Leona, _ki lesz a fallback?_
 
