@@ -1,4 +1,4 @@
-{ pkgs, ... }:
+{ pkgs, config, ... }:
 {
   packages = [
     pkgs.zola
@@ -6,11 +6,15 @@
     pkgs.qrencode
   ];
 
+  dotenv = {
+    enable = true;
+    filename = [ ".env" ".env.local" ];
+  };
+
   scripts = {
-    run.exec = 
+    server.exec = 
       let
-        # zola-port = "1353";
-        zola-port = "1111";
+        zola-port = config.env.PORT;
       in
       ''
       IP=$(ip -4 addr show wlo1 | grep -oP '(?<=inet\s)\d+(\.\d+){3}')

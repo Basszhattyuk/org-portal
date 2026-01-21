@@ -11,3 +11,5 @@ devenv.local.yaml
 
 public/
 static/img/AppImages/
+.env
+.env.*
