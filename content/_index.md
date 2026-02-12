@@ -17,6 +17,9 @@ Egy központi hely, ahonnan minden szervezéssel kapcsolatos fontos dolog elérh
 - [Felelősök és divíziók](2026/responsibility)
 - [Szervezői megbeszélések](2026/meeting)
 
+Brainstorming Listák
+- [Játékok](https://docs.google.com/document/d/1DgS5NTtnhmutQZ_F9GBaKPaSPXOYHNlqHzVEWi0aUOQ/edit?usp=sharing)
+
 ---
 
 [Oldal gyors megosztása](quick-share/main)
