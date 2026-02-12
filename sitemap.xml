@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://basszhattyuk.github.io/org-portal/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/guides/documenting-meetings/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/meeting/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/meeting/a-dec-14-laser/</loc>
+        <lastmod>2025-12-14</lastmod>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/meeting/b-majalis-utan-meleg-helyen/</loc>
+        <lastmod>2025-12-20</lastmod>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/responsibility/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/responsibility/leadership/team-leader/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/responsibility/leadership/vice-team-leader/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/2026/responsibility/org-portal/lead-maintainer/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/git-strategy/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/quick-share/2026/meeting/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/quick-share/2026/meeting/dec-14-laser/</loc>
+    </url>
+    <url>
+        <loc>https://basszhattyuk.github.io/org-portal/quick-share/main/</loc>
+    </url>
+</urlset>

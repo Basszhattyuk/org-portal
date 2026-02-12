@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://basszhattyuk.github.io/org-portal/sitemap.xml
